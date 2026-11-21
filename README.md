@@ -59,6 +59,17 @@ The following table describes the FPGA input and output assignments used on the 
 
 All I/O pins are configured using the LVCMOS33 standard.
 
+### Hardware Testing Photographs
+
+**Hardware Test 1**
+
+![Vending Machine FPGA Hardware Test 1](<WhatsApp Image 2026-11-12 at 11.53.12 PM (1).jpeg>)
+
+**Hardware Test 2**
+
+![Vending Machine FPGA Hardware Test 2](<WhatsApp Image 2026-11-12 at 11.53.12 PM.jpeg>)
+
+
 ## 5. Design and Implementation Flow
 
 The project follows these FPGA development stages:
